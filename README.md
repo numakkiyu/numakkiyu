@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="500" src="" />
+  <img width="500" src="https://github.com/numakkiyu/numakkiyu/blob/main/%E6%96%B0%E5%8C%97%E6%B5%B7%E7%9A%84%E4%BD%B0%E5%B7%9D%E9%AB%98%E6%B8%85%E5%A4%B4%E5%83%8F.jpg" />
 </p>
 
 # Hi 我是 北海的佰川 👋
@@ -8,7 +8,7 @@
 
 ## 关于我
 
-嗨！一位高中生，我主要使用`PHP`、`JavaScript`、`HTML`、`CSS`和`Python`这几种语言；只会写一点点烂活，技术含量不高
+嗨！一位高中生，我主要使用`PHP`、`JavaScript`、`HTML`、`CSS`、`Python`这几种语言；只会写一点点烂活，技术含量不高
 
 ## 技能
 
@@ -22,6 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numakkiyu&layout=compact&theme=dracula&locale=en" />
 </a>
 
+---
 
 [![Static Badge](https://img.shields.io/badge/NBU-x?style=for-the-badge&logo=bookstack&logoColor=white&color=cf3a1c)](https://www.nbu.edu.cn/en/)
 [![Static Badge](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white&color=5175a6)](https://python.org)
