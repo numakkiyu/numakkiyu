@@ -8,7 +8,7 @@
 
 ## 关于我
 
-嗨！一位高中生，我主要使用`PHP`、`JavaScript`、`HTML`、`CSS`、`Python`这几种语言；只会写一点点烂活，技术含量不高
+嗨！一位大学生，我主要使用`PHP`、`JavaScript`、`HTML`、`CSS`、`Python`这几种语言；只会写一点点烂活，技术含量不高
 
 ## 技能
 
