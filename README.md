@@ -19,7 +19,7 @@
 ## 使用语言偏好
 
 <a href="https://github.com/numakkiyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numakkiyu&layout=compact&theme=dracula&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username==numakkiyu&hide=javascript,html" />
 </a>
 
 ---
