@@ -18,8 +18,8 @@
 
 ## 使用语言偏好
 
-<a href="https://github.com/numakkiyu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username==numakkiyu&hide=javascript,html" />
+<a href="https://me.tianbeigm.cn/about">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numakkiyu&amp;layout=compact&amp;theme=dracula&amp;locale=en" />
 </a>
 
 ---
