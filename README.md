@@ -158,7 +158,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6&height=100&section=footer" width="100%"/>
   
   <p>
-    <i>⚡ 世界如此残酷而又美丽，但我依然爱着它 ⚡</i>
+    <i>⚡ 世界是如此美丽而又残酷，但我依然爱着它 ⚡</i>
   </p>
   
   <sub>Made with ❤️ by 北海的佰川 | © 2024 BHCN STUDIO 保留所有权益</sub>
