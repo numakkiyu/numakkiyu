@@ -49,7 +49,25 @@
     <tr>
       <td width="50%">
           
-  嗨！一位大学生，我主要使用`PHP`、`JavaScript`、`HTML`、`CSS`、`Python`这几种语言；只会写一点点烂活，技术含量不高
+嗨！我是一位大学生开发者，主要使用 `PHP`、`JavaScript`、`HTML`、`CSS`、`Python` 进行开发。
+  
+我的技术之旅始于2020年新冠疫情初期。当时，居家隔离的环境让我偶然接触到了HTML网站编程。一切都是从零开始：没有AI工具的辅助，只能依靠最原始的“手动”探索——在CSDN、菜鸟编程等平台碎片化地搜集知识，逐行复制代码、反复调试，像拼图一样艰难地组装每一个功能模块。这种“缝补式”学习虽然低效，却让我深刻理解了基础语法和问题解决的韧性。
+
+2022年，我迈出了实践的第一步：购买人生第一台服务器。但由于对国内备案政策的陌生，我误选了国内服务器，导致网站无法直接部署。在几乎放弃时，一位朋友（后来创立怊猫科技/TechCat）提供了关键的备案授权码，解决了燃眉之急
+。然而，服务器稳定性问题接踵而至——因厂商遭遇攻击，网站被迫迁移至另一位朋友的中国服务器，他慷慨提供了长达一年半的免费支持。这段经历让我意识到技术社区的互助精神是开发者成长中不可或缺的力量。
+
+我的第一个实战项目是为Hypixel游戏公会ChinaVacation构建网站。最初版本简陋且功能单一，但通过持续自学和迭代，它逐渐演变为茶话会（TeaTalk Guild）的交流平台。代码库在反复修补中沦为“屎山”，最终不得不推倒重来
+。尽管公会后来解散，我却因此结识了新公会的会长，并与他合作开发新项目。这段经历让我从单纯编码扩展到项目规划与协作，深刻体会到架构设计的重要性。
+
+2023年，我用暑假打工的收入购买了专属服务器，成功备案新域名，并建立了个人博客站。这一阶段，我不仅掌握了前端，还通过项目积累了数据库优化和部署的经验。
+
+​2022年底至2023年初，ChatGPT 3.5的诞生彻底改变了我的学习模式。它从“搜索-试错”的循环中解放了我，能够快速解答代码问题、提供优化建议。尽管当时模型能力有限，但它显著提升了开发效率
+。随后GitHub Copilot通过代码预测减轻了重复劳动，而2024年至2025年5月间出现的Cursor更是革命性的——只需自然语言指令，即可修复错误、重构代码甚至生成完整页面。然而，Cursor因模型服务商限制而无法在中国大陆及香港使用高级功能，这让我意识到依赖外部工具的局限性。但这也促使我更注重底层原理的理解，而非单纯依赖自动化。
+
+回顾这段旅程，我最大的收获并非只是技术能力的提升，而是对技术与人性的双重理解​：代码是冰冷的，但开发者社区的温度、朋友的无私帮助以及AI工具的协同潜力，共同编织了一张支持个体成长的网络。正如所言：“你必须成为你希望在世界上看到的改变”。
+
+> 技术不只是冷冰冰的代码，更是人与人之间的协作与互助。  
+> 每一次服务器崩溃、每一次推倒重来、每一次 AI 带来的惊喜，都是我前行的动力。
 
   </table>
 </div>
@@ -135,17 +153,11 @@
     <b>如果你对我的项目或技术感兴趣，欢迎随时联系我！</b><br/>
     <i>Feel free to reach out if you're interested in my projects or technologies!</i>
   </p>
-  
-  <a href="https://me.tianbeigm.cn/about">
-    <img src="https://img.shields.io/badge/Contact-联系我-2E75B4?style=for-the-badge&logo=mailchimp&logoColor=white" />
-  </a>
-  
-  <a href="mailto:imbhcn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-邮箱-2E75B4?style=for-the-badge&logo=Email&logoColor=white" />
-  </a>
 
+  <a href="https://me.tianbeigm.cn/about"><img src="https://img.shields.io/badge/Contact-联系我-2E75B4?style=for-the-badge&logo=mailchimp&logoColor=white"/></a>
+  <a href="mailto:imbhcn@gmail.com"><img src="https://img.shields.io/badge/Email-邮箱-2E75B4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
-  <br/><br/>
+  <br/>
   
 
   <img src="https://komarev.com/ghpvc/?username=numakkiyu&style=for-the-badge&color=2E75B4" alt="Profile Views" />
@@ -163,5 +175,5 @@
   
   <sub>Made with ❤️ by 北海的佰川 | © 2024 BHCN STUDIO 保留所有权益</sub>
   <br>
-  <sub>最后一次编辑2025年8月31日 Version 25w35a</sub>
+  <sub>最后一次编辑2025年9月4日 Version 25w36a</sub>
 </div>
