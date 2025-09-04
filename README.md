@@ -1,9 +1,7 @@
-<!-- 顶部动态横幅 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B4,50:4F46E5,100:7C3AED&height=200&section=header&text=北海的佰川&fontSize=40&fontColor=white&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20BHCN%20STUDIO&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<!-- 个人头像和基本信息 -->
 <div align="center">
   <table border="0" style="border: none; background: transparent;">
     <tr>
@@ -25,12 +23,10 @@
   </table>
 </div>
 
-<!-- 个性签名 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=600&lines=Die+Welt+ist+so+wundersch%C3%B6n+und+doch+so+grausam%2C;aber+ich+liebe+sie+dennoch.;%E2%9A%A1+%E4%B8%96%E7%95%8C%E6%98%AF%E5%A6%82%E6%AD%A4%E7%BE%8E%E4%B8%BD%E8%80%8C%E5%8F%88%E6%AE%8B%E9%85%B7%EF%BC%8C%E4%BD%86%E6%88%91%E4%BE%9D%E7%84%B6%E7%88%B1%E7%9D%80%E5%AE%83+%E2%9A%A1" alt="Signature" />
 </div>
 
-<!-- 社交媒体链接 -->
 <div align="center">
   <p>
     <a href="https://me.tianbeigm.cn/">
@@ -48,7 +44,6 @@
   </p>
 </div>
 
-<!-- BHCN STUDIO 部分 -->
 <div align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=2E75B4&center=true&vCenter=true&width=300&lines=BHCN+STUDIO" alt="Studio Title" />
@@ -63,12 +58,10 @@
   </a>
 </div>
 
-<!-- 分割线 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- 关于我部分 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=400&lines=🌊+关于我+|+About+Me" alt="About Me Title" />
 </div>
@@ -93,12 +86,10 @@
   </table>
 </div>
 
-<!-- 分割线 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- 我的历程部分 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=500&lines=🚀+我的历程+|+My+Journey" alt="My Journey Title" />
 </div>
@@ -111,7 +102,7 @@
       <td width="40%" align="center" style="border: none; vertical-align: top;">
         <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
         <br><br>
-        <!-- 时间线图标 -->
+        <!-- 草了，删掉我这个注释会注释掉这一部分 -->
         <div>
           <img src="https://img.shields.io/badge/2020-疫情启程-FF6B6B?style=for-the-badge" />
           <br>
@@ -147,12 +138,10 @@
   </table>
 </div>
 
-<!-- 分割线 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- 技术栈部分 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=500&lines=💼+技术栈+|+Tech+Stack" alt="Tech Stack Title" />
 </div>
@@ -202,12 +191,10 @@
   </table>
 </div>
 
-<!-- 分割线 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- GitHub 统计 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=600&lines=📊+GitHub+统计+|+GitHub+Stats" alt="GitHub Stats Title" />
 </div>
@@ -232,12 +219,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=numakkiyu&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=a8a8a8" width="90%" />
 </div>
 
-<!-- 分割线 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- 贡献活动图 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=700&lines=📈+贡献活动+|+Contribution+Activity" alt="Activity Title" />
 </div>
@@ -248,7 +233,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=numakkiyu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="95%" />
 </div>
 
-<!-- 特色项目 -->
 <div align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=600&lines=🚀+特色项目+|+Featured+Projects" alt="Projects Title" />
@@ -262,12 +246,10 @@
   </a>
 </div>
 
-<!-- 分割线 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- 兴趣领域 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=600&lines=🌟+兴趣领域+|+Interests" alt="Interests Title" />
 </div>
@@ -302,12 +284,10 @@
   </table>
 </div>
 
-<!-- 分割线 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<!-- 联系我部分 -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=2E75B4&center=true&vCenter=true&width=600&lines=📬+联系我+|+Contact+Me" alt="Contact Title" />
 </div>
@@ -345,7 +325,6 @@
   <img src="https://img.shields.io/github/stars/numakkiyu?style=for-the-badge&color=2E75B4&logo=github" alt="Stars" />
 </div>
 
-<!-- 底部横幅 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B4,50:4F46E5,100:7C3AED&height=150&section=footer&animation=twinkling" width="100%"/>
   
@@ -357,7 +336,6 @@
   
   <sub>Made with ❤️ by 北海的佰川 | © 2024 BHCN STUDIO 保留所有权益</sub><br>
   <sub>最后一次编辑2025年9月4日 Version 25w36a</sub>
-  
-  <!-- 动态蛇形贡献图 -->
+
 ![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
 </div>
