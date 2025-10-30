@@ -70,12 +70,6 @@
 
 <div align="center">
   <table width="100%" style="border: none;">
-    <tr>
-      <td width="40%" align="center" style="border: none; vertical-align: top;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,python,git,github,vscode,docker,figma,raspberrypi,arduino&perline=4" />
-      </td>
       <td width="60%" style="border: none; vertical-align: top; padding-left: 30px;">
         <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 30px; color: white; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);">
           
@@ -99,20 +93,6 @@
 <div align="center">
   <table width="100%" style="border: none;">
     <tr>
-      <td width="40%" align="center" style="border: none; vertical-align: top;">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-        <br><br>
-        <!-- 草了，删掉我这个注释会注释掉这一部分 -->
-        <div>
-          <img src="https://img.shields.io/badge/2020-疫情启程-FF6B6B?style=for-the-badge" />
-          <br>
-          <img src="https://img.shields.io/badge/2022-服务器初体验-4ECDC4?style=for-the-badge" />
-          <br>
-          <img src="https://img.shields.io/badge/2023-博客建站-45B7D1?style=for-the-badge" />
-          <br>
-          <img src="https://img.shields.io/badge/2024-AI时代-96CEB4?style=for-the-badge" />
-        </div>
-      </td>
       <td width="60%" style="border: none; vertical-align: top; padding-left: 30px;">
         <div style="background: linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 50%, #45B7D1 100%); border-radius: 20px; padding: 30px; color: white; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);">
 
@@ -335,7 +315,7 @@
   <br>
   
   <sub>Made with ❤️ by 北海的佰川 | © 2024 BHCN STUDIO 保留所有权益</sub><br>
-  <sub>最后一次编辑2025年9月4日 Version 25w36a</sub>
+  <sub>最后一次编辑2025年10月30日 Version 25w44a</sub>
 
 ![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
 </div>
